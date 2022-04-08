@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bililive_dm_plugin_tts", "bililive_dm_plugin_tts\bililive_dm_plugin_tts.csproj", "{03F149C1-6850-42CF-A476-67811DB97159}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "metadata", "metadata\metadata.shproj", "{37D55BAF-6CAD-4029-83D8-61B56420B7BA}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		metadata\metadata.projitems*{03f149c1-6850-42cf-a476-67811db97159}*SharedItemsImports = 4
+		metadata\metadata.projitems*{37d55baf-6cad-4029-83d8-61b56420b7ba}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03F149C1-6850-42CF-A476-67811DB97159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F149C1-6850-42CF-A476-67811DB97159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F149C1-6850-42CF-A476-67811DB97159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F149C1-6850-42CF-A476-67811DB97159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EB902F5-F7A7-4906-B9E4-F79B11410663}
+	EndGlobalSection
+EndGlobal
