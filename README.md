@@ -28,10 +28,10 @@ Requirements:
 - .Net Framework 4.6.1
 
 Building:
-0. Clone this repo
-0. Download [the SDK](https://soft.ceve-market.org/bilibili_dm/sdk.7z) and extract everything into the `sdk` directory
-0. Open `bililive_dm_plugins.sln` in VS2019
-0. Build the solution
+1. Clone this repo
+1. Download [the SDK](https://soft.ceve-market.org/bilibili_dm/sdk.7z) and extract everything into the `sdk` directory
+1. Open `bililive_dm_plugins.sln` in VS2019
+1. Build the solution
 
 Installing:
 Copy the plugin DLLs (e.g. `bin\Release\bililive_dm_plugin_tts.dll`) to the plugin directory
@@ -58,5 +58,5 @@ Debugging:
 Directly debug the main program in the VS2019 IDE. If your plugins are built in a debug configuration, the symbols will be loaded automatically.
 
 Notes:
-- My fork fixed some building issues in newer toolset versions.
+- My fork fixed some building issues in newer toolset versions
 - [Official plugin development documentation](https://github.com/copyliu/bililive_dm/wiki/%E5%BC%B9%E5%B9%95%E5%A7%AC%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91)
