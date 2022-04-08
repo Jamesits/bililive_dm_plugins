@@ -1,4 +1,4 @@
-Some plugins for [Bilibili 弹幕姬](https://github.com/copyliu/bililive_dm).
+Some plugins for [Bilibili 弹幕姬](https://www.danmuji.org/).
 
 # Plugin List
 
